@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ching-Yun (Winnie) Hsu</h1>
-<h3 align="center">
-I'm a master's student in Applied Statistics at the University of Michigan.
-I am passionate about machine learning, statistical modeling, and building practical AI systems. I enjoy working at the intersection of data science, AI engineering, and real-world problem solving.</h3>
+🎓 Master's student in Applied Statistics at the University of Michigan  
+🤖 Interested in machine learning, statistical modeling, and applied AI systems  
+🔍 Passionate about turning data-driven insights into real-world solutions
 
-- 🔭 Michigan Data Science Team [Student Researcher](Replicating GPT-2 in PyTorch Studying transformer architectures and training behavior)
+1. 🔭 Michigan Data Science Team [Student Researcher](Replicating GPT-2 in PyTorch Studying transformer architectures and training behavior)
 
-- 👯 The Data Mine- Purdue University [Graduate Student Researcher](Demand forecasting with ARIMA, LSTM, and gradient boosting Building automated dashboards and analytics pipelines)
+2. 👯 The Data Mine- Purdue University [Graduate Student Researcher](Demand forecasting with ARIMA, LSTM, and gradient boosting Building automated dashboards and analytics pipelines)
 
-- 🤝 AUO Corporation [Software Engineer Intern](Multi-agent system with LangGraph SQL and Neo4j agents for enterprise data workflows)
+3. 🤝 AUO Corporation [Software Engineer Intern](Multi-agent system with LangGraph SQL and Neo4j agents for enterprise data workflows)
 
-- 📚 WNC Corporation [Artificial Intelligence Intern](Chatbot Plugin for Intenal Connection)
+4. 📚 WNC Corporation [Artificial Intelligence Intern](Chatbot Plugin for Intenal Connection)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +17,4 @@ I am passionate about machine learning, statistical modeling, and building pract
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  </p>
