@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Ching-Yun (Winnie) Hsu 👋
 
-<!--
-**WinnieHsu0111/WinnieHsu0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in Applied Statistics at the University of Michigan, passionate about machine learning, statistical modeling, and building practical AI systems. I enjoy working at the intersection of data science, AI engineering, and real-world problem solving.
 
-Here are some ideas to get you started:
+## About Me
+- Currently pursuing an MS in Applied Statistics at UMich  
+- Dual BS in Applied Mathematics and Agribusiness from NCHU  
+- Experienced in AI research, forecasting, NLP systems, and multi-agent automation  
+- Interested in AI evaluation, statistical learning, and applied machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Machine Learning and Deep Learning  
+- Time Series Forecasting  
+- NLP (RAG pipelines, transformers, GPT-related work)  
+- Data Science and Visualization  
+- Statistical Modeling  
+
+## Technical Skills
+**Languages:** Python, SQL, R, MATLAB  
+**ML/AI:** PyTorch, LangChain, RAG, ARIMA, LSTM, Gradient Boosting  
+**Data:** Pandas, NumPy, Matplotlib, Streamlit, Tableau  
+**Databases:** MySQL, Neo4j  
+**Tools:** Git, GitHub, VS Code, PyCharm  
+
+## Experience
+### Michigan Data Science Team (Student Researcher)
+- Replicating GPT-2 in PyTorch  
+- Studying transformer architectures and training dynamics  
+
+### Purdue University – The Data Mine (Graduate Data Science Researcher)
+- Building AI-driven forecasting models (ARIMA, LSTM, gradient boosting)  
+- Developing automated dashboards and data pipelines  
+
+### AUO Corporation (Software Engineer Intern)
+- Built multi-agent systems using LangGraph  
+- Created SQL and Neo4j agents, workflow orchestrations, and LLM-supervised pipelines  
+
+### Wistron Neweb Corporation (AI Intern)
+- NLP/RAG plugin improving internal communication  
+- Data cleaning, augmentation, and context-aware retrieval modeling  
+
+## Selected Projects
+- GPT-2 Replication (PyTorch)
+- Red Gold Demand Forecasting
+- Traffic Accident Predictive Analysis
+- Multi-Agent LLM System for Enterprise Data Access
+
+## Currently Learning
+- Advanced Statistical Learning  
+- AI Evaluation and Robustness  
+- Large-scale model training and optimization  
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/ching-yun-hsu-157899272  
+- Email: chingyun@umich.edu  
+
+## Fun Facts
+- I enjoy photography, coffee-making, drawing and traveling.
