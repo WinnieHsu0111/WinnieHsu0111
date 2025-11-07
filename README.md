@@ -39,12 +39,6 @@ I'm a master's student in Applied Statistics at the University of Michigan, pass
 - NLP/RAG plugin improving internal communication  
 - Data cleaning, augmentation, and context-aware retrieval modeling  
 
-## Selected Projects
-- GPT-2 Replication (PyTorch)
-- Red Gold Demand Forecasting
-- Traffic Accident Predictive Analysis
-- Multi-Agent LLM System for Enterprise Data Access
-
 ## Currently Learning
 - Advanced Statistical Learning  
 - AI Evaluation and Robustness  
