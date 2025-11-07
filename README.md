@@ -16,8 +16,8 @@ I enjoy building tools and models that connect data science, AI engineering, and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- LinkedIn: https://www.linkedin.com/in/ching-yun-hsu-157899272  
-- Email: chingyun@umich.edu 
+* LinkedIn: https://www.linkedin.com/in/ching-yun-hsu-157899272  
+* Email: chingyun@umich.edu 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
