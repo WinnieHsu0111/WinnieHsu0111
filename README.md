@@ -1,6 +1,10 @@
-🎓 Master's student in Applied Statistics at the University of Michigan  
-🤖 Interested in machine learning, statistical modeling, and applied AI systems  
-🔍 Passionate about turning data-driven insights into real-world solutions
+<h1 align="left">Hi 👋, I'm Ching-Yun (Winnie) Hsu</h1>
+
+<p align="left">
+I'm a master's student in Applied Statistics at the University of Michigan.<br>
+I work at the intersection of machine learning, statistical modeling, and practical AI systems.<br>
+I enjoy building tools and models that connect data science, AI engineering, and real-world decision making.
+</p>
 
 1. 🔭 Michigan Data Science Team [Student Researcher](Replicating GPT-2 in PyTorch Studying transformer architectures and training behavior)
 
