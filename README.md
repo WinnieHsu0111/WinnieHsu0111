@@ -1,52 +1,17 @@
-# Hi, I'm Ching-Yun (Winnie) Hsu 👋
+<h1 align="center">Hi 👋, I'm Ching-Yun (Winnie) Hsu</h1>
+<h3 align="center">I'm a master's student in Applied Statistics at the University of Michigan, passionate about machine learning, statistical modeling, and building practical AI systems. I enjoy working at the intersection of data science, AI engineering, and real-world problem solving.</h3>
 
-I'm a master's student in Applied Statistics at the University of Michigan, passionate about machine learning, statistical modeling, and building practical AI systems. I enjoy working at the intersection of data science, AI engineering, and real-world problem solving.
+- 🔭 Michigan Data Science Team [Student Researcher](Replicating GPT-2 in PyTorch Studying transformer architectures and training behavior)
 
-## About Me
-- Currently pursuing an MS in Applied Statistics at UMich  
-- Dual BS in Applied Mathematics and Agribusiness from NCHU  
-- Experienced in AI research, forecasting, NLP systems, and multi-agent automation  
-- Interested in AI evaluation, statistical learning, and applied machine learning
+- 👯 The Data Mine- Purdue University [Graduate Student Researcher](Demand forecasting with ARIMA, LSTM, and gradient boosting Building automated dashboards and analytics pipelines)
 
-## What I Do
-- Machine Learning and Deep Learning  
-- Time Series Forecasting  
-- NLP (RAG pipelines, transformers, GPT-related work)  
-- Data Science and Visualization  
-- Statistical Modeling  
+- 🤝 AUO Corporation [Software Engineer Intern](Multi-agent system with LangGraph SQL and Neo4j agents for enterprise data workflows)
 
-## Technical Skills
-**Languages:** Python, SQL, R, MATLAB  
-**ML/AI:** PyTorch, LangChain, RAG, ARIMA, LSTM, Gradient Boosting  
-**Data:** Pandas, NumPy, Matplotlib, Streamlit, Tableau  
-**Databases:** MySQL, Neo4j  
-**Tools:** Git, GitHub, VS Code, PyCharm  
+- 📚 WNC Corporation [Artificial Intelligence Intern](Chatbot Plugin for Intenal Connection)
 
-## Experience
-### Michigan Data Science Team (Student Researcher)
-- Replicating GPT-2 in PyTorch  
-- Studying transformer architectures and training dynamics  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Purdue University – The Data Mine (Graduate Data Science Researcher)
-- Building AI-driven forecasting models (ARIMA, LSTM, gradient boosting)  
-- Developing automated dashboards and data pipelines  
-
-### AUO Corporation (Software Engineer Intern)
-- Built multi-agent systems using LangGraph  
-- Created SQL and Neo4j agents, workflow orchestrations, and LLM-supervised pipelines  
-
-### Wistron Neweb Corporation (AI Intern)
-- NLP/RAG plugin improving internal communication  
-- Data cleaning, augmentation, and context-aware retrieval modeling  
-
-## Currently Learning
-- Advanced Statistical Learning  
-- AI Evaluation and Robustness  
-- Large-scale model training and optimization  
-
-## Links
-- LinkedIn: https://www.linkedin.com/in/ching-yun-hsu-157899272  
-- Email: chingyun@umich.edu  
-
-## Fun Facts
-- I enjoy photography, coffee-making, drawing and traveling.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
