@@ -6,13 +6,17 @@ I work at the intersection of machine learning, statistical modeling, and practi
 I enjoy building tools and models that connect data science, AI engineering, and real-world decision making.
 </h4>
 
-1. 🔭 Michigan Data Science Team [Student Researcher](Replicating GPT-2 in PyTorch Studying transformer architectures and training behavior)
+1. 🧪 **Michigan Data Science Team — Student Researcher**  
+   Replicating GPT-2 with PyTorch and studying transformer training behavior.
 
-2. 👯 The Data Mine- Purdue University [Graduate Student Researcher](Demand forecasting with ARIMA, LSTM, and gradient boosting Building automated dashboards and analytics pipelines)
+2. 📊 **Purdue University — Graduate Data Science Researcher**  
+   Forecasting with ARIMA, LSTM, boosting, and building automated dashboards.
 
-3. 🤝 AUO Corporation [Software Engineer Intern](Multi-agent system with LangGraph SQL and Neo4j agents for enterprise data workflows)
+3. 🤖 **AUO Corporation — Software Engineer Intern**  
+   Multi-agent system with LangGraph, SQL/Neo4j agents, and LLM orchestration.
 
-4. 📚 WNC Corporation [Artificial Intelligence Intern](Chatbot Plugin for Intenal Connection)
+4. 📚 **WNC Corporation — Artificial Intelligence Intern**  
+   NLP/RAG plugin improving internal communication.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
