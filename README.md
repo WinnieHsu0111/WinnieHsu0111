@@ -8,7 +8,7 @@ I enjoy building tools and models that connect data science, AI engineering, and
 
 ### 🚀 Featured Projects & Experience
 
-1. 📈 **University of Michigan — Graduate Research Assistant** Validating phylodynamic pipelines (PhyloDeep & PhyloPOMP) to compare MLE and deep learning estimators for epidemiological models.
+1. 📈 **University of Michigan — Research Assistant** Validating phylodynamic pipelines (PhyloDeep & PhyloPOMP) to compare MLE and deep learning estimators for epidemiological models.
 
 2. 🧪 **Michigan Data Science Team — Student Researcher** Replicating GPT-2 with PyTorch and studying transformer training behavior.
 
